@@ -1,0 +1,13 @@
+Project Type: Admin Dashboard for Content Management
+Tech Stack: Laravel, Blade, MySQL, MVC
+Features:
+
+Dashboard controller and route setup
+
+Post model with title, content, and status
+
+Migration for posts table
+
+Clean Blade template for the dashboard
+
+Structured for future expansion
